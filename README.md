@@ -1,11 +1,11 @@
-# MCMCSESE
-The Minecraft MC Skin editor Skin Editor! A personal attempt at a minecraft skin editor.
-
 # TOOL BUTTONS (Missing UI textures right now)
  * 1 - Brush
  * 2 - Color Picker (Can also be used by holding alt)
  * 3 - Non Continuous Fill Bucket
  * 4 - Eraser
+
+# MCMCSESE
+The Minecraft MC Skin editor Skin Editor! A personal attempt at a minecraft skin editor.
 
 It began when I made a minecraft skin for the first time in 2 years using [Popular Website], when I realized it had bugs. A lot of bugs. But not only that, I vividly remember them being there the last time too.
 So I was a bit frustrated, because it's been years. And naturally I complained to my pals my buddies my chums.

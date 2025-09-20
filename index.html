@@ -103,7 +103,15 @@
 document.addEventListener("keydown", function(e) {
     if (e.ctrlKey && e.key === "s") {
         e.preventDefault();
-        console.log("Ctrl+S pressed — default browser save prevented!");
+        console.log("Ctrl+S pressed - default browser save prevented!");
+    }
+});
+</script>
+    <script>
+document.addEventListener("keydown", function(e) {
+    if (e.altKey) {
+        e.preventDefault();
+        console.log("Alt pressed");
     }
 });
 </script>
